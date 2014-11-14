@@ -1,0 +1,26 @@
+/* line 2, ../sass/base.scss */
+* { margin: 0; padding: 0; }
+
+/* line 4, ../sass/base.scss */
+body { font-family: 'Roboto', sans-serif; font-weight: 300; font-size: 16px; line-height: 1.2em; }
+
+/* line 25, ../sass/base.scss */
+h1 { font-size: 2em; font-weight: 700; }
+
+/* line 29, ../sass/base.scss */
+h2 { font-size: 1.6em; font-weight: 700; }
+
+/* line 33, ../sass/base.scss */
+h3 { font-size: 1.4em; font-weight: 700; }
+
+/* line 37, ../sass/base.scss */
+h4 { font-size: 1.2em; }
+
+/* line 40, ../sass/base.scss */
+h5 { font-size: 0.8em; }
+
+/* line 44, ../sass/base.scss */
+h6, small { font-size: 0.7em; }
+
+/* line 48, ../sass/base.scss */
+p { line-height: 1.6em; }

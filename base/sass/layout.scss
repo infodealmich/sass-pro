@@ -1,0 +1,81 @@
+$grid24 : 4.166666%; 
+$grid12 : 8.333333%;
+$base_padding : 16px;
+
+@mixin col_span_base ($w) {
+	
+	.span-1 { width: $w*1; }
+	.span-2 { width: $w*2; }
+	.span-3 { width: $w*3; }
+	.span-4 { width: $w*4; }
+	.span-5 { width: $w*5; }
+	.span-6 { width: $w*6; }
+	.span-7 { width: $w*7; }
+	.span-8 { width: $w*8; }
+	.span-9 { width: $w*9; }
+	.span-10 { width: $w*10; }
+	.span-11 { width: $w*11; }
+	.span-12 { width: $w*12; }
+	.span-13 { width: $w*13; }
+	.span-14 { width: $w*14; }
+	.span-15 { width: $w*15; }
+	.span-16 { width: $w*16; }
+	.span-17 { width: $w*17; }
+	.span-18 { width: $w*18; }
+	.span-19 { width: $w*19; }
+	.span-20 { width: $w*20; }
+	.span-21 { width: $w*21; }
+	.span-22 { width: $w*22; }
+	.span-23 { width: $w*23; }
+	.span-24 { width: $w*24; }
+
+}
+
+
+.grid {
+	.grid-24 {
+
+		.col { 
+			@include col_span_base($grid24);
+		}
+		.row { width: 100%; }
+	}
+	.grid-12 {
+		.col { 
+			@include col_span_base($grid12); 
+		}
+		.row {  width: 100% }
+	}
+}
+
+
+.is-right-to-left {
+	.col-left {
+		float: right;
+	}
+	.col-right {
+		float: left;
+	}
+}
+
+.is-left-to-right {
+	.col-left {
+		float: left;
+	}
+	.col-right {
+		float: right;
+	}
+}
+
+.inner {
+	padding: $base_padding;
+}
+
+.is-border {
+	border: 1px solid #ddd;
+}
+
+.clear-fix {
+	clear: both;
+	overflow: auto;
+}
