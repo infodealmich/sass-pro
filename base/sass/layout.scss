@@ -67,13 +67,23 @@ $base_padding : 16px;
 	}
 }
 
-.inner {
+%is-border {
+	border: 1px solid #ddd;
+}
+
+%is-padd {
 	padding: $base_padding;
 }
 
-.is-border {
-	border: 1px solid #ddd;
+.is-decor {
+	&.is-border {
+		@extend %is-border;
+	}
+	&.is-padd {
+		@extend %is-padd;
+	}
 }
+
 
 .clear-fix {
 	clear: both;
