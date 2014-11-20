@@ -168,7 +168,7 @@ p { line-height: 1.6em; }
 .on-decor.on-border { border: 1px solid #ddd; }
 
 /* line 74, ../sass/layout.scss */
-.on-decor.on-padd, .theme-default nav ul li { padding: 16px; }
+.on-decor.on-padd { padding: 16px; }
 
 /* line 88, ../sass/layout.scss */
 .clear-fix { clear: both; overflow: auto; }
