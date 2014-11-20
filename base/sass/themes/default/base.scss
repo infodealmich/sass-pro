@@ -17,7 +17,7 @@ nav {
 		li {
 
 			background-color: blue;
-			@extend %is-padd;
+			@extend %on-padd;
 			&:hover {
 
 			}

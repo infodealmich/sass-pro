@@ -67,20 +67,20 @@ $base_padding : 16px;
 	}
 }
 
-%is-border {
+%on-border {
 	border: 1px solid #ddd;
 }
 
-%is-padd {
+%on-padd {
 	padding: $base_padding;
 }
 
-.is-decor {
-	&.is-border {
-		@extend %is-border;
+.on-decor {
+	&.on-border {
+		@extend %on-border;
 	}
-	&.is-padd {
-		@extend %is-padd;
+	&.on-padd {
+		@extend %on-padd;
 	}
 }
 

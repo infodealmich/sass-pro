@@ -110,10 +110,10 @@
 .is-left-to-right .col-right { float: right; }
 
 /* line 70, ../sass/layout.scss */
-.is-decor.is-border { border: 1px solid #ddd; }
+.on-decor.on-border { border: 1px solid #ddd; }
 
 /* line 74, ../sass/layout.scss */
-.is-decor.is-padd { padding: 16px; }
+.on-decor.on-padd { padding: 16px; }
 
 /* line 88, ../sass/layout.scss */
 .clear-fix { clear: both; overflow: auto; }
