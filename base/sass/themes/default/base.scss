@@ -1,3 +1,5 @@
+$base_color: rgb(84, 198, 247);
+
 
 h1,h2,h3,h4,h5,h6 {
 	line-height: 1.6em;
@@ -16,8 +18,8 @@ nav {
 	ul {
 		li {
 
-			background-color: blue;
-			//@extend %on-padd;
+			background-color: rgb(84, 198, 247);
+			@extend %on-padd;
 			&:hover {
 
 			}
@@ -25,5 +27,19 @@ nav {
 	}
 }
 
+#main, #header, #footer {
+	margin-bottom: 1em;
+}
+
 
 /* (Navigation) ............................................................. */
+
+.l-wide {
+	width: 100%;
+}
+
+.l-narrow {
+	margin: 0 auto;
+	width: 960px;
+}
+

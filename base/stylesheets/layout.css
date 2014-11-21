@@ -1,119 +1,123 @@
 /* line 7, ../sass/layout.scss */
-.grid .grid-24 .col .span-1 { width: 4.16667%; }
+.grid .grid-24 .span-1 { width: 4.16667%; }
 /* line 8, ../sass/layout.scss */
-.grid .grid-24 .col .span-2 { width: 8.33333%; }
+.grid .grid-24 .span-2 { width: 8.33333%; }
 /* line 9, ../sass/layout.scss */
-.grid .grid-24 .col .span-3 { width: 12.5%; }
+.grid .grid-24 .span-3 { width: 12.5%; }
 /* line 10, ../sass/layout.scss */
-.grid .grid-24 .col .span-4 { width: 16.66666%; }
+.grid .grid-24 .span-4 { width: 16.66666%; }
 /* line 11, ../sass/layout.scss */
-.grid .grid-24 .col .span-5 { width: 20.83333%; }
+.grid .grid-24 .span-5 { width: 20.83333%; }
 /* line 12, ../sass/layout.scss */
-.grid .grid-24 .col .span-6 { width: 25.0%; }
+.grid .grid-24 .span-6 { width: 25.0%; }
 /* line 13, ../sass/layout.scss */
-.grid .grid-24 .col .span-7 { width: 29.16666%; }
+.grid .grid-24 .span-7 { width: 29.16666%; }
 /* line 14, ../sass/layout.scss */
-.grid .grid-24 .col .span-8 { width: 33.33333%; }
+.grid .grid-24 .span-8 { width: 33.33333%; }
 /* line 15, ../sass/layout.scss */
-.grid .grid-24 .col .span-9 { width: 37.49999%; }
+.grid .grid-24 .span-9 { width: 37.49999%; }
 /* line 16, ../sass/layout.scss */
-.grid .grid-24 .col .span-10 { width: 41.66666%; }
+.grid .grid-24 .span-10 { width: 41.66666%; }
 /* line 17, ../sass/layout.scss */
-.grid .grid-24 .col .span-11 { width: 45.83333%; }
+.grid .grid-24 .span-11 { width: 45.83333%; }
 /* line 18, ../sass/layout.scss */
-.grid .grid-24 .col .span-12 { width: 49.99999%; }
+.grid .grid-24 .span-12 { width: 49.99999%; }
 /* line 19, ../sass/layout.scss */
-.grid .grid-24 .col .span-13 { width: 54.16666%; }
+.grid .grid-24 .span-13 { width: 54.16666%; }
 /* line 20, ../sass/layout.scss */
-.grid .grid-24 .col .span-14 { width: 58.33332%; }
+.grid .grid-24 .span-14 { width: 58.33332%; }
 /* line 21, ../sass/layout.scss */
-.grid .grid-24 .col .span-15 { width: 62.49999%; }
+.grid .grid-24 .span-15 { width: 62.49999%; }
 /* line 22, ../sass/layout.scss */
-.grid .grid-24 .col .span-16 { width: 66.66666%; }
+.grid .grid-24 .span-16 { width: 66.66666%; }
 /* line 23, ../sass/layout.scss */
-.grid .grid-24 .col .span-17 { width: 70.83332%; }
+.grid .grid-24 .span-17 { width: 70.83332%; }
 /* line 24, ../sass/layout.scss */
-.grid .grid-24 .col .span-18 { width: 74.99999%; }
+.grid .grid-24 .span-18 { width: 74.99999%; }
 /* line 25, ../sass/layout.scss */
-.grid .grid-24 .col .span-19 { width: 79.16665%; }
+.grid .grid-24 .span-19 { width: 79.16665%; }
 /* line 26, ../sass/layout.scss */
-.grid .grid-24 .col .span-20 { width: 83.33332%; }
+.grid .grid-24 .span-20 { width: 83.33332%; }
 /* line 27, ../sass/layout.scss */
-.grid .grid-24 .col .span-21 { width: 87.49999%; }
+.grid .grid-24 .span-21 { width: 87.49999%; }
 /* line 28, ../sass/layout.scss */
-.grid .grid-24 .col .span-22 { width: 91.66665%; }
+.grid .grid-24 .span-22 { width: 91.66665%; }
 /* line 29, ../sass/layout.scss */
-.grid .grid-24 .col .span-23 { width: 95.83332%; }
+.grid .grid-24 .span-23 { width: 95.83332%; }
 /* line 30, ../sass/layout.scss */
-.grid .grid-24 .col .span-24 { width: 99.99998%; }
-/* line 41, ../sass/layout.scss */
+.grid .grid-24 .span-24 { width: 99.99998%; }
+/* line 32, ../sass/layout.scss */
+.grid .grid-24 .span-1, .grid .grid-24 .span-2, .grid .grid-24 .span-3, .grid .grid-24 .span-4, .grid .grid-24 .span-5, .grid .grid-24 .span-6, .grid .grid-24 .span-7, .grid .grid-24 .span-8, .grid .grid-24 .span-9, .grid .grid-24 .span-10, .grid .grid-24 .span-11, .grid .grid-24 .span-12, .grid .grid-24 .span-13, .grid .grid-24 .span-14, .grid .grid-24 .span-15, .grid .grid-24 .span-16, .grid .grid-24 .span-17, .grid .grid-24 .span-18, .grid .grid-24 .span-19, .grid .grid-24 .span-20, .grid .grid-24 .span-21, .grid .grid-24 .span-22, .grid .grid-24 .span-23, .grid .grid-24 .span-24 { float: left; }
+/* line 66, ../sass/layout.scss */
 .grid .grid-24 .row { width: 100%; }
 /* line 7, ../sass/layout.scss */
-.grid .grid-12 .col .span-1 { width: 8.33333%; }
+.grid .grid-12 .span-1 { width: 8.33333%; }
 /* line 8, ../sass/layout.scss */
-.grid .grid-12 .col .span-2 { width: 16.66667%; }
+.grid .grid-12 .span-2 { width: 16.66667%; }
 /* line 9, ../sass/layout.scss */
-.grid .grid-12 .col .span-3 { width: 25.0%; }
+.grid .grid-12 .span-3 { width: 25.0%; }
 /* line 10, ../sass/layout.scss */
-.grid .grid-12 .col .span-4 { width: 33.33333%; }
+.grid .grid-12 .span-4 { width: 33.33333%; }
 /* line 11, ../sass/layout.scss */
-.grid .grid-12 .col .span-5 { width: 41.66666%; }
+.grid .grid-12 .span-5 { width: 41.66666%; }
 /* line 12, ../sass/layout.scss */
-.grid .grid-12 .col .span-6 { width: 50.0%; }
+.grid .grid-12 .span-6 { width: 50.0%; }
 /* line 13, ../sass/layout.scss */
-.grid .grid-12 .col .span-7 { width: 58.33333%; }
+.grid .grid-12 .span-7 { width: 58.33333%; }
 /* line 14, ../sass/layout.scss */
-.grid .grid-12 .col .span-8 { width: 66.66666%; }
+.grid .grid-12 .span-8 { width: 66.66666%; }
 /* line 15, ../sass/layout.scss */
-.grid .grid-12 .col .span-9 { width: 75.0%; }
+.grid .grid-12 .span-9 { width: 75.0%; }
 /* line 16, ../sass/layout.scss */
-.grid .grid-12 .col .span-10 { width: 83.33333%; }
+.grid .grid-12 .span-10 { width: 83.33333%; }
 /* line 17, ../sass/layout.scss */
-.grid .grid-12 .col .span-11 { width: 91.66666%; }
+.grid .grid-12 .span-11 { width: 91.66666%; }
 /* line 18, ../sass/layout.scss */
-.grid .grid-12 .col .span-12 { width: 100.0%; }
+.grid .grid-12 .span-12 { width: 100.0%; }
 /* line 19, ../sass/layout.scss */
-.grid .grid-12 .col .span-13 { width: 108.33333%; }
+.grid .grid-12 .span-13 { width: 108.33333%; }
 /* line 20, ../sass/layout.scss */
-.grid .grid-12 .col .span-14 { width: 116.66666%; }
+.grid .grid-12 .span-14 { width: 116.66666%; }
 /* line 21, ../sass/layout.scss */
-.grid .grid-12 .col .span-15 { width: 125.0%; }
+.grid .grid-12 .span-15 { width: 125.0%; }
 /* line 22, ../sass/layout.scss */
-.grid .grid-12 .col .span-16 { width: 133.33333%; }
+.grid .grid-12 .span-16 { width: 133.33333%; }
 /* line 23, ../sass/layout.scss */
-.grid .grid-12 .col .span-17 { width: 141.66666%; }
+.grid .grid-12 .span-17 { width: 141.66666%; }
 /* line 24, ../sass/layout.scss */
-.grid .grid-12 .col .span-18 { width: 149.99999%; }
+.grid .grid-12 .span-18 { width: 149.99999%; }
 /* line 25, ../sass/layout.scss */
-.grid .grid-12 .col .span-19 { width: 158.33333%; }
+.grid .grid-12 .span-19 { width: 158.33333%; }
 /* line 26, ../sass/layout.scss */
-.grid .grid-12 .col .span-20 { width: 166.66666%; }
+.grid .grid-12 .span-20 { width: 166.66666%; }
 /* line 27, ../sass/layout.scss */
-.grid .grid-12 .col .span-21 { width: 174.99999%; }
+.grid .grid-12 .span-21 { width: 174.99999%; }
 /* line 28, ../sass/layout.scss */
-.grid .grid-12 .col .span-22 { width: 183.33333%; }
+.grid .grid-12 .span-22 { width: 183.33333%; }
 /* line 29, ../sass/layout.scss */
-.grid .grid-12 .col .span-23 { width: 191.66666%; }
+.grid .grid-12 .span-23 { width: 191.66666%; }
 /* line 30, ../sass/layout.scss */
-.grid .grid-12 .col .span-24 { width: 199.99999%; }
-/* line 47, ../sass/layout.scss */
+.grid .grid-12 .span-24 { width: 199.99999%; }
+/* line 32, ../sass/layout.scss */
+.grid .grid-12 .span-1, .grid .grid-12 .span-2, .grid .grid-12 .span-3, .grid .grid-12 .span-4, .grid .grid-12 .span-5, .grid .grid-12 .span-6, .grid .grid-12 .span-7, .grid .grid-12 .span-8, .grid .grid-12 .span-9, .grid .grid-12 .span-10, .grid .grid-12 .span-11, .grid .grid-12 .span-12, .grid .grid-12 .span-13, .grid .grid-12 .span-14, .grid .grid-12 .span-15, .grid .grid-12 .span-16, .grid .grid-12 .span-17, .grid .grid-12 .span-18, .grid .grid-12 .span-19, .grid .grid-12 .span-20, .grid .grid-12 .span-21, .grid .grid-12 .span-22, .grid .grid-12 .span-23, .grid .grid-12 .span-24 { float: left; }
+/* line 73, ../sass/layout.scss */
 .grid .grid-12 .row { width: 100%; }
 
-/* line 53, ../sass/layout.scss */
+/* line 79, ../sass/layout.scss */
 .is-right-to-left .col-left { float: right; }
-/* line 56, ../sass/layout.scss */
+/* line 82, ../sass/layout.scss */
 .is-right-to-left .col-right { float: left; }
 
-/* line 62, ../sass/layout.scss */
+/* line 88, ../sass/layout.scss */
 .is-left-to-right .col-left { float: left; }
-/* line 65, ../sass/layout.scss */
+/* line 91, ../sass/layout.scss */
 .is-left-to-right .col-right { float: right; }
 
-/* line 70, ../sass/layout.scss */
+/* line 96, ../sass/layout.scss */
 .on-decor.on-border { border: 1px solid #ddd; }
 
-/* line 74, ../sass/layout.scss */
+/* line 100, ../sass/layout.scss */
 .on-decor.on-padd { padding: 16px; }
 
-/* line 88, ../sass/layout.scss */
+/* line 114, ../sass/layout.scss */
 .clear-fix { clear: both; overflow: auto; }
